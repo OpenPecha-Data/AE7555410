@@ -1,0 +1,19 @@
+segment_sources:
+  PAFB18722:
+    type: origin_type
+    relation: translation
+    language: en
+  P793CD0CC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e04bdd979c1e475abc23c6110471b843:
+    PAFB18722: 0b8f94c14d144d19b62fea764471942d
+    P793CD0CC: efc65fbffcd642ed9f5ea9eae247c6d4
+  8ca142fa494a48beb78a5776a1f32dbc:
+    PAFB18722: e7da4174773349159d4e65b1127643e5
+    P793CD0CC: 952435adbc564446ad41298714c08b16
+  6b95cd024c8241488c218df1e655e031:
+    PAFB18722: cac8360c3a4041e8820548e15d3991e5
+    P793CD0CC: 0b3609bb9b5c4031acf9aa5c03de8bff
